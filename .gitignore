@@ -1,0 +1,7 @@
+# gitignore
+
+*.ipynb
+.ipynb_checkpoints
+*.csv
+*.xlsx
+
