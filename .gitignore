@@ -1,5 +1,6 @@
 # gitignore
 
+nohup.out
 *.ipynb
 .ipynb_checkpoints
 *.csv
