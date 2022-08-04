@@ -1,7 +1,5 @@
-# gitignore
-
+# Add filse to ignore
 nohup.out
-*.ipynb
 .ipynb_checkpoints
 *.csv
 *.xlsx
